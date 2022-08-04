@@ -1,0 +1,6 @@
+natsort
+numpy
+opencv-python
+
+
+#你只需要在你的环境中 pip install -r requirements.txt
